@@ -5,4 +5,6 @@ Lib
 
 share
 
+pyvenv.cfg
+
 *.png
