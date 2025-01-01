@@ -1,10 +1,7 @@
-Include
-Scripts
-
-Lib
-
-share
-
-pyvenv.cfg
-
+.env/*
+old_images/*
+sticker_images_2025_jan/*
+sticker_images_new_version/*
+sticker_images_new_version_2/*
+*.txt
 *.png
